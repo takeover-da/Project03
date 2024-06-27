@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex4 {
+public class Ex4_산술연산자의연산과정이해 {
 
 	public static void main(String[] args) {
 

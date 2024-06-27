@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex2 {
+public class Ex2_증감연산자 {
 
 	public static void main(String[] args) {
 

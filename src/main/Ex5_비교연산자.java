@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex5 {
+public class Ex5_비교연산자 {
 
 	public static void main(String[] args) {
 

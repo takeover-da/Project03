@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex3 {
+public class Ex3_산술연산자 {
 
 	public static void main(String[] args) {
 

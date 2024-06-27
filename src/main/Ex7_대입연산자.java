@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex7 {
+public class Ex7_대입연산자 {
 
 	public static void main(String[] args) {
 
